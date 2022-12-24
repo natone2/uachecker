@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#linux variables
 
 echo "===============================================================================================
 | |  | |     (_)          /\            | |   (_)                | |             | |
@@ -32,7 +31,6 @@ echo "==========================================================================
 --------------------------------------------------------------------------"
 echo ""
 
-#!/bin/bash
 
 # Solicitamos al usuario que ingrese el nombre del archivo
 echo "Ingrese el nombre del archivo para verificar su integridad:"
